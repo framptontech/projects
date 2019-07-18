@@ -1,2 +1,2 @@
 # projects
-Projects | Demos | Portfolio
+Demos | Projects | Portfolio
